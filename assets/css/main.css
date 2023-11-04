@@ -1,7 +1,7 @@
 .container{
     width: 300px;
     height: 220px;
-    background:url(./assets/images/IMG20220707201732\ \(1\).jpg);
+    background:url(../images/IMG20220707201732\ \(1\).jpg);
     background-size: cover;
     background-position: center;
 }
